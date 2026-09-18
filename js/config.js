@@ -11,7 +11,7 @@ window.INVITATION_CONFIG = {
     address: "Av. Manuel Belgrano 1340, Crucecita, Avellaneda",
     mapUrl: "https://www.google.com/maps/search/?api=1&query=Celebra+Eventos+Av.+Manuel+Belgrano+1340+Crucecita+Avellaneda",
     confirmationNote: "Necesitamos tu confirmación antes del 14 de noviembre.",
-    whatsappNumber: "5491156223007",
+    whatsappNumber: "",
     whatsappMessage: "¡Hola! Confirmo mi asistencia al cumpleaños de Leandro. 🧸✈️",
     instagramUrl: "https://www.instagram.com/rossdigitalstudio/",
     instagramHandle: "@rossdigitalstudio",
